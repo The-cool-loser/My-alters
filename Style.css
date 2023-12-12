@@ -3,6 +3,14 @@ body {
     color: white;
     text-align:center;
 }
+ul {
+    display: table;
+    margin: 0 auto;
+  }
+ol {
+    display: table;
+    margin: 0 auto;
+  }
     #Amber {
     background-color: green;
     color: white;
