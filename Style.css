@@ -2,15 +2,8 @@ body {
     background-color: black;
     color: white;
     text-align:center;
+    list-style-position: inside;
 }
-ul {
-    display: table;
-    margin: 0 auto;
-  }
-ol {
-    display: table;
-    margin: 0 auto;
-  }
     #Amber {
     background-color: green;
     color: white;
